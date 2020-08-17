@@ -16,5 +16,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="48" height="48"/></p>
   <p align="center">
+  <a href="https://linkedin.com/in/andres florez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="andres florez" height="40" width="40" /></a>
 <a href="https://fb.com/andres florez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="andres florez" height="40" width="40" /></a>
 </p>
